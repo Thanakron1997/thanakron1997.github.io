@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  background: rgba(37,37,37,1);
+  background: radial-gradient(circle, rgba(37,37,37,1) 0%, rgba(0,0,0,1) 160%);
+
+}
+.v1_7 {
+  margin-top: 13%;
+  align-items: center;
+  text-align: center;
+ }
+.v1_3 {
+  color: rgba(255,255,255,1);
+  font-family: 'Libre Barcode 39 Extended Text';
+  font-weight: Regular;
+  font-size: 10em;
+  opacity: 1;
+}
+.v1_5 {
+  color: rgba(255,255,255,1);
+  font-family: 'Libre Barcode 39';
+  font-weight: Regular;
+  font-size: 5em;
+  opacity: 1;
+
+}
+.v1_6 {
+  color: rgba(255,255,255,1);
+  font-family: 'Libre Barcode 39';
+  font-weight: Regular;
+  font-size: 5em;
+  opacity: 1;
+}
+.v1_29 {
+  margin-top: 1%;
+  align-items: center;
+  text-align: center;
+}
+.v1_8 {
+  color: rgba(255,255,255,1);
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Libre Franklin;
+  font-weight: Regular;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.v1_9 {
+  color: rgba(255,255,255,1);
+  font-family: Libre Franklin;
+  font-weight: Regular;
+  font-size: 14px;
+  padding-left: 3%;
+  text-decoration: underline;
+}
